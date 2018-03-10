@@ -7,4 +7,8 @@
 5.	Try to update the local changes with the remote repository at GitHub:
 -	Use "git pull" command.
 6.	You will get a conflict notification!!!!!!!!
-
+7.	Resolve the conflict. Edit the conflicting files and get them correctly merged. Remove all lines that point the locations of the merge conflicts (like <<<<<<< HEAD):
+8.	Commit the merged changes (your local changes and your changed made from the Web/TortoiseGit):
+9.	Sync again to push your changes online to GitHub.
+Now, the update should be successful with no conflicts.
+10.	Finally, check the changes on the Web in your GitHub account or sync your TortoiseGit local repo.
