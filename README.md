@@ -6,5 +6,5 @@
 4.	Now commit them.
 5.	Try to update the local changes with the remote repository at GitHub:
 -	Use "git pull" command.
-6.	You will get a conflict notification.
+6.	You will get a conflict notification!!!!!!!!
 
