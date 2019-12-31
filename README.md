@@ -12,3 +12,4 @@
 9.	Sync again to push your changes online to GitHub.
     Now, the update should be successful with no conflicts.
 10.	Finally, check the changes on the Web in your GitHub account or sync your TortoiseGit local repo.
+11. Add -s flag to repo
